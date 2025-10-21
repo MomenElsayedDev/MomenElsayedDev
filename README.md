@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Moamen Abouhaty 🧑🏻‍💻 
 
-I am an ambitious programmer working on building my career as a Back-End Engineer. My programming journey began with great passion, where I learned the fundamentals of C++ and object-oriented programming. I continuously develop my problem-solving skills and have proficiency in programming languages such as Python, Ruby, JavaScript, and TypeScript. I also have 3 months of hands-on experience working with Node.js. I aspire to become a highly skilled and influential programmer in the future.
+I am a passionate Full-Stack Engineer specialized in the MERN stack, with solid skills in JavaScript, TypeScript, and 3 months of hands-on experience with Node.js. I started learning programming with C++ and object-oriented principles. I am continuously improving my problem-solving abilities and aiming to become an influential programmer.
 
 ---
 
