@@ -1,6 +1,6 @@
-# 👋 Hi there, I'm Moamen Abouhaty 🧑🏻‍💻 
+# 👋 Hi there, I'm Moamen 🧑🏻‍💻 
 
-I am a passionate Full-Stack Engineer specialized in the MERN stack, with solid skills in JavaScript, TypeScript, and 3 months of hands-on experience with Node.js. I started learning programming with C++ and object-oriented principles. I am continuously improving my problem-solving abilities and aiming to become an influential programmer.
+I am an entry-level Backend Engineer with strong skills in JavaScript and TypeScript, and 3 months of hands-on experience using Node.js. My programming journey began with C++ and object-oriented principles, which built a solid foundation for my development skills. I am continuously improving my problem-solving abilities and striving to become an impactful and innovative software engineer.
 
 ---
 
