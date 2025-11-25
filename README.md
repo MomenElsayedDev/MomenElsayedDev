@@ -26,7 +26,8 @@ I am an entry-level Backend Engineer with strong skills in JavaScript and TypeSc
 ![](https://github-profile-trophy.vercel.app/?username=MoamenAbouhaty95&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Moamen Abouhaty](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=Coding%20beats%20to%20my%20music!)](https://github.com/piyushsuthar/github-readme-quotes)
+
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MoamenAbouhaty95&limit=5&theme=dark&combine_all_yearly_contributions=true)
