@@ -50,5 +50,5 @@
 
 ### 🌟 Platforms:
 
-- [Codewars](https://www.codewars.com/users/Moamen%20Abouhaty)
+- [Codewars](https://www.codewars.com/users/MomenElsayedDev)
 - [HackerRank](https://www.hackerrank.com/profile/codemaker95)
